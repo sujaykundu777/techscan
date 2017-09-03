@@ -1,10 +1,11 @@
-# techscan
+To run the app locally, Follow the steps
 
-> repo scanner
+#clone 
+git clone https://github.com/sujaykundu777/techscan.git
 
-## Build Setup
+#cd
+cd techscan
 
-``` bash
 # install dependencies
 npm install
 
@@ -25,4 +26,3 @@ npm run e2e
 
 # run all tests
 npm test
-```
