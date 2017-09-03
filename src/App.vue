@@ -42,7 +42,7 @@ export default {
 
 
 .appbar-search-field{
-  color: #FFF;
+  color: #000;
   margin-bottom: 0;
  
 }
@@ -53,10 +53,10 @@ export default {
  }
  
   .mu-text-field-hint {
-    color: fade(#FFF, 54%);
+    color: fade(#000, 54%);
   }
   .mu-text-field-input {
-    color: #FFF;
+    color: #000;
   }
   .mu-text-field-focus-line {
     background-color: #FFF;

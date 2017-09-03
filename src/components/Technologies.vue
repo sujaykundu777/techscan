@@ -10,8 +10,8 @@
  
   <mu-card-actions>
    
-    <mu-flat-button label="Repositories"/>
-  </mu-card-actions>
+    <mu-flat-button label="Repositories" to="/technologies/python" />
+  </mu-card-actions>  
 </mu-card>
 
     </mu-col>
@@ -24,7 +24,7 @@
   
   <mu-card-actions>
    
-    <mu-flat-button label="Repositories"/>
+    <mu-flat-button label="Repositories" to="/technologies/java" />
   </mu-card-actions>
 </mu-card>
 
@@ -37,7 +37,7 @@
   </mu-card-media>
 
   <mu-card-actions>
-    <mu-flat-button label="Repositories" to="/" />
+    <mu-flat-button label="Repositories" to="/technologies/javascript" />
   </mu-card-actions>
 </mu-card>
 

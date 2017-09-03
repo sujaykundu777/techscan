@@ -4,11 +4,13 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import MuseUI from 'muse-ui'
-import VueResource from 'vue-resource'
+// import VueResource from 'vue-resource'
+import axios from 'axios'
+import VueAxios from 'vue-axios'
 import 'muse-ui/dist/muse-ui.css'
-
+Vue.use(VueAxios, axios)
 Vue.use(MuseUI)
-Vue.use(VueResource)
+// Vue.use(VueResource)
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
