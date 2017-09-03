@@ -2,11 +2,11 @@
 
 > popular repository scanner for languages - Java,Javascript,Python,Ruby
 
-![Screenshot 1](http://sujaykundu.com/images/wireframe.png)
+![Screenshot 1](https://github.com/sujaykundu777/techscan/raw/master/src/assets/screenshot1.JPG)
 
-![Screenshot 2](http://sujaykundu.com/images/wireframe.png)
+![Screenshot 2](https://github.com/sujaykundu777/techscan/raw/master/src/assets/screenshot2.JPG)
 
-![Screenshot 3]()
+![Screenshot 3](https://github.com/sujaykundu777/techscan/raw/master/src/assets/screenshot3.JPG)
 
 ## Build Setup
 
