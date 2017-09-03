@@ -6,7 +6,7 @@
          <mu-icon-menu icon="more_vert" slot="right">
       <mu-menu-item title="Home" to="/" />
       <mu-menu-item title="Technologies" to="/technologies"/>
-      <mu-menu-item title="Users" to="/users"/>
+      <mu-menu-item title="About" to="/about"/>
     
     </mu-icon-menu>
      </mu-appbar>
@@ -35,9 +35,14 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   margin-top: 0px;
-   background-image:url('assets/bg.jpeg');
-    height: 800px;
+   background-color:yellowgreen;
+   background-size:cover;
+   height: 800px;
     color:#fff;
+    
+}
+body{
+  background-color: yellowgreen;
 }
 
 
@@ -62,4 +67,12 @@ export default {
     background-color: #FFF;
   }
   
+  .mu-card{
+  width: auto;
+  height: auto;
+  border: 1px solid #000;
+  float: left;
+  display:block;
+  margin: 40px;
+}
 </style>

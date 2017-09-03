@@ -1,10 +1,10 @@
 <template>
 
   <div class="hello">
-  
-    <h1> TechScan </h1>
-    <h1>{{ msg }}</h1>
     
+    
+    <h1>{{ msg }}</h1>
+      
    </div>
 </template>
 
@@ -13,7 +13,7 @@ export default {
   name: 'hello',
   data () {
     return {
-      msg: 'Scan Repos and Users'
+      msg: 'Popular Github Repositories'
     }
   }
 }
@@ -37,5 +37,12 @@ li {
 
 a {
   color: #42b983;
+}
+.hello{
+  background-image: url('../assets/github-octocat.png');
+  background-size:cover;
+  margin-top: -20px;
+  height:740px;
+  color: #111;
 }
 </style>

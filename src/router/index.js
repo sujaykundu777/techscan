@@ -5,6 +5,7 @@ import Technologies from '@/components/Technologies'
 import Javascript from '@/components/Javascript'
 import Python from '@/components/Python'
 import Java from '@/components/Java'
+import About from '@/components/About'
 
 Vue.use(Router)
 
@@ -34,6 +35,11 @@ export default new Router({
       path: '/technologies/java',
       name: 'Java',
       component: Java
+    },
+    {
+      path: '/about',
+      name: 'About',
+      component: About
     }
   ]
 })
