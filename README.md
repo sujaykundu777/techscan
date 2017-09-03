@@ -1,6 +1,12 @@
 # techscan
 
-> repo scanner
+> popular repository scanner for languages - Java,Javascript,Python,Ruby
+
+![Screenshot 1](http://sujaykundu.com/images/wireframe.png)
+
+![Screenshot 2](http://sujaykundu.com/images/wireframe.png)
+
+![Screenshot 3]()
 
 ## Build Setup
 
